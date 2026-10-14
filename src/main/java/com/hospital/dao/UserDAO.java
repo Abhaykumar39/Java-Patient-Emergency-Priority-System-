@@ -17,7 +17,7 @@ public class UserDAO {
     private static final String USER = "root";
 
     // Use the same local MySQL password as PatientDAO.java.
-    private static final String PASSWORD = "YOUR_MYSQL_PASSWORD";
+    private static final String PASSWORD = "abhaykumar39";
 
     public boolean createUser(String username,
                               String password,
